@@ -1,0 +1,101 @@
+,column0,column1,column2,column3,column4,column5,column6,column7,column8,column9
+0,Campania,Liguria,0-24,Emilia-Romagna,75-100,25-49,75-100,Lombardy,Sicilia,Marche
+1,Piedmont,Emilia-Romagna,Campania,Lombardy,Campania,0-24,50-74,Puglia,50-74,Lombardy
+2,Piedmont,Tuscany,50-74,Lazio,Lombardy,0-24,Lombardy,0-24,Campania,Piedmont
+3,75-100,75-100,Veneto,75-100,25-49,25-49,Tuscany,25-49,50-74,75-100
+4,0-24,Lombardy,Campania,25-49,0-24,Piedmont,75-100,Umbria,0-24,50-74
+5,Campania,50-74,25-49,25-49,Piedmont,Lazio,Campania,50-74,Marche,Lombardy
+6,Abruzzo,75-100,Lazio,Lombardy,Friuli-Venezia Giulia,75-100,Calabria,Emilia-Romagna,25-49,0-24
+7,Calabria,Veneto,75-100,Tuscany,50-74,0-24,Veneto,50-74,75-100,0-24
+8,Friuli-Venezia Giulia,75-100,50-74,Tuscany,Piedmont,25-49,Calabria,75-100,75-100,Campania
+9,Campania,Puglia,Puglia,Liguria,Piedmont,Veneto,Sardegna,Lombardy,Calabria,50-74
+10,25-49,75-100,25-49,25-49,Abruzzo,75-100,Piedmont,75-100,Sardegna,Piedmont
+11,50-74,0-24,Calabria,Lombardy,Sicilia,50-74,75-100,Veneto,Veneto,Veneto
+12,50-74,Friuli-Venezia Giulia,25-49,Friuli-Venezia Giulia,50-74,Campania,Sicilia,75-100,Liguria,Marche
+13,25-49,Lombardy,Emilia-Romagna,50-74,Piedmont,Sicilia,25-49,Lombardy,0-24,50-74
+14,Abruzzo,0-24,Piedmont,Calabria,50-74,75-100,75-100,25-49,Tuscany,0-24
+15,75-100,Lazio,Piedmont,75-100,Piedmont,75-100,Lazio,Piedmont,75-100,25-49
+16,Piedmont,75-100,Campania,25-49,Tuscany,Lombardy,25-49,Marche,75-100,Lombardy
+17,Veneto,Marche,75-100,25-49,50-74,Campania,25-49,Molise,Sicilia,0-24
+18,Lombardy,75-100,75-100,75-100,50-74,0-24,25-49,Puglia,50-74,75-100
+19,Piedmont,0-24,Lombardy,0-24,50-74,0-24,75-100,Lombardy,Marche,Lombardy
+20,50-74,Tuscany,Tuscany,25-49,Sardegna,Calabria,Campania,25-49,75-100,Emilia-Romagna
+21,Emilia-Romagna,50-74,50-74,0-24,25-49,Sicilia,Piedmont,75-100,Sardegna,50-74
+22,Abruzzo,Basilicata,Piedmont,Marche,Puglia,Veneto,Umbria,Lombardy,25-49,Umbria
+23,Lombardy,0-24,Campania,Campania,Tuscany,Veneto,Emilia-Romagna,0-24,25-49,50-74
+24,25-49,75-100,Calabria,50-74,0-24,Abruzzo,Basilicata,Piedmont,25-49,Veneto
+25,Sicilia,0-24,Basilicata,Lombardy,0-24,50-74,50-74,Emilia-Romagna,Lazio,50-74
+26,Trentino-Alto Adige,0-24,Calabria,50-74,Lombardy,25-49,75-100,Lombardy,0-24,50-74
+27,Puglia,25-49,75-100,25-49,0-24,25-49,50-74,75-100,0-24,Tuscany
+28,Lazio,Sardegna,0-24,25-49,Friuli-Venezia Giulia,Lazio,Liguria,Veneto,Veneto,Sicilia
+29,Emilia-Romagna,Lombardy,75-100,Calabria,Liguria,Campania,50-74,Campania,50-74,Veneto
+30,Lombardy,0-24,Campania,50-74,75-100,50-74,50-74,25-49,50-74,Piedmont
+31,50-74,0-24,Sicilia,Emilia-Romagna,0-24,Campania,Tuscany,Veneto,Emilia-Romagna,75-100
+32,Veneto,0-24,Sardegna,50-74,50-74,Veneto,Campania,Campania,Sicilia,25-49
+33,25-49,0-24,25-49,Friuli-Venezia Giulia,50-74,75-100,75-100,75-100,75-100,50-74
+34,Sardegna,0-24,Emilia-Romagna,Tuscany,50-74,50-74,0-24,50-74,Sicilia,Trentino-Alto Adige
+35,Lombardy,25-49,0-24,Marche,50-74,75-100,0-24,Sardegna,75-100,50-74
+36,50-74,50-74,Umbria,25-49,50-74,25-49,50-74,Puglia,0-24,Lombardy
+37,0-24,50-74,Tuscany,Lombardy,25-49,0-24,Veneto,75-100,Calabria,25-49
+38,Lombardy,Puglia,Umbria,Veneto,Umbria,Veneto,Lombardy,50-74,75-100,0-24
+39,0-24,Friuli-Venezia Giulia,0-24,Liguria,Sardegna,Friuli-Venezia Giulia,75-100,Puglia,Sardegna,Sardegna
+40,Puglia,0-24,Piedmont,Abruzzo,25-49,25-49,0-24,Puglia,75-100,Tuscany
+41,25-49,25-49,Sardegna,Sardegna,25-49,50-74,25-49,50-74,0-24,0-24
+42,50-74,0-24,Piedmont,Puglia,Piedmont,0-24,Calabria,Calabria,Lazio,25-49
+43,25-49,75-100,Friuli-Venezia Giulia,25-49,75-100,75-100,25-49,Veneto,Piedmont,Lombardy
+44,Campania,Lombardy,Puglia,Veneto,50-74,0-24,25-49,Veneto,Lombardy,Sicilia
+45,Sicilia,50-74,Liguria,Piedmont,25-49,75-100,50-74,50-74,25-49,Piedmont
+46,Sardegna,25-49,0-24,Campania,25-49,Calabria,Sicilia,50-74,Veneto,Friuli-Venezia Giulia
+47,Lombardy,Lombardy,Veneto,0-24,0-24,0-24,Sardegna,Puglia,50-74,Tuscany
+48,Lombardy,Abruzzo,50-74,50-74,0-24,50-74,50-74,Emilia-Romagna,Lombardy,Veneto
+49,Tuscany,50-74,75-100,Piedmont,25-49,Veneto,25-49,Puglia,75-100,25-49
+50,Veneto,Sardegna,50-74,Veneto,50-74,Veneto,Lombardy,Friuli-Venezia Giulia,Veneto,Emilia-Romagna
+51,75-100,Campania,Marche,0-24,0-24,Emilia-Romagna,50-74,50-74,0-24,Liguria
+52,50-74,75-100,50-74,25-49,Lombardy,25-49,Sicilia,50-74,Tuscany,Calabria
+53,Campania,Veneto,50-74,50-74,0-24,Molise,Sicilia,Sicilia,Lombardy,Marche
+54,Lombardy,Campania,Lombardy,25-49,25-49,Veneto,0-24,Veneto,75-100,50-74
+55,75-100,Campania,Campania,Sardegna,Abruzzo,0-24,Lombardy,0-24,Puglia,0-24
+56,0-24,0-24,Puglia,0-24,Lombardy,75-100,75-100,Tuscany,Veneto,0-24
+57,50-74,Molise,25-49,25-49,50-74,0-24,Calabria,75-100,50-74,Trentino-Alto Adige
+58,75-100,Lazio,Basilicata,0-24,Lazio,Liguria,Abruzzo,75-100,Liguria,25-49
+59,Lombardy,50-74,Sardegna,75-100,Lombardy,Piedmont,50-74,25-49,0-24,0-24
+60,75-100,50-74,Puglia,Campania,50-74,Piedmont,25-49,Lombardy,Lazio,75-100
+61,Campania,50-74,0-24,Lombardy,Veneto,Lombardy,Puglia,0-24,0-24,25-49
+62,25-49,Lazio,Veneto,0-24,0-24,Calabria,25-49,0-24,75-100,0-24
+63,Abruzzo,Piedmont,Sicilia,Tuscany,Emilia-Romagna,Lazio,75-100,Campania,0-24,50-74
+64,25-49,Puglia,Campania,50-74,Veneto,25-49,Emilia-Romagna,Tuscany,50-74,Piedmont
+65,50-74,Lombardy,Calabria,0-24,75-100,50-74,Sicilia,0-24,25-49,Piedmont
+66,0-24,Sardegna,Campania,50-74,25-49,Sicilia,Lombardy,Liguria,75-100,Piedmont
+67,75-100,25-49,75-100,25-49,Sardegna,Sicilia,50-74,Lazio,Piedmont,25-49
+68,Puglia,50-74,75-100,75-100,Trentino-Alto Adige,25-49,25-49,25-49,Abruzzo,Veneto
+69,50-74,75-100,25-49,Lombardy,Basilicata,25-49,25-49,0-24,Piedmont,25-49
+70,Calabria,Emilia-Romagna,Sicilia,50-74,Trentino-Alto Adige,25-49,50-74,75-100,75-100,Calabria
+71,0-24,0-24,75-100,0-24,Piedmont,Veneto,Piedmont,Puglia,25-49,Friuli-Venezia Giulia
+72,25-49,50-74,Friuli-Venezia Giulia,25-49,Emilia-Romagna,0-24,Liguria,Puglia,50-74,75-100
+73,Sardegna,Piedmont,Lombardy,Lazio,75-100,Puglia,25-49,50-74,50-74,Piedmont
+74,Veneto,0-24,Liguria,50-74,50-74,Sicilia,0-24,Veneto,Lombardy,0-24
+75,25-49,0-24,0-24,75-100,50-74,Sicilia,Lazio,Liguria,Sicilia,75-100
+76,75-100,50-74,25-49,Sardegna,25-49,Emilia-Romagna,Lombardy,0-24,75-100,Tuscany
+77,25-49,Campania,Basilicata,Friuli-Venezia Giulia,25-49,Liguria,Emilia-Romagna,25-49,Lombardy,Sicilia
+78,Lombardy,50-74,0-24,Trentino-Alto Adige,25-49,Puglia,50-74,Trentino-Alto Adige,Campania,0-24
+79,50-74,Calabria,Lombardy,0-24,50-74,50-74,Abruzzo,50-74,Lombardy,50-74
+80,Puglia,Piedmont,0-24,25-49,Liguria,0-24,75-100,Campania,25-49,0-24
+81,Piedmont,Veneto,Calabria,Piedmont,75-100,0-24,Lombardy,Lombardy,Lombardy,0-24
+82,50-74,25-49,25-49,Emilia-Romagna,0-24,Marche,0-24,0-24,Emilia-Romagna,25-49
+83,Puglia,25-49,0-24,Liguria,Sardegna,Sardegna,Campania,Puglia,Calabria,25-49
+84,Sardegna,50-74,25-49,25-49,75-100,75-100,Lombardy,Lombardy,Lombardy,Friuli-Venezia Giulia
+85,0-24,75-100,Sicilia,75-100,25-49,Emilia-Romagna,0-24,Sicilia,0-24,0-24
+86,Lazio,Puglia,Tuscany,Emilia-Romagna,Lombardy,50-74,0-24,0-24,75-100,0-24
+87,0-24,Sardegna,25-49,Piedmont,50-74,Lombardy,25-49,0-24,50-74,25-49
+88,Lazio,Piedmont,Tuscany,50-74,50-74,0-24,Lombardy,50-74,75-100,Sicilia
+89,0-24,Marche,25-49,Abruzzo,25-49,0-24,Lombardy,Abruzzo,Marche,Umbria
+90,50-74,25-49,50-74,Campania,Calabria,Veneto,Puglia,Lazio,Basilicata,Friuli-Venezia Giulia
+91,Lazio,Lombardy,75-100,Friuli-Venezia Giulia,Calabria,Lazio,Liguria,Veneto,Piedmont,0-24
+92,Lombardy,50-74,Veneto,25-49,Veneto,0-24,Tuscany,50-74,25-49,Tuscany
+93,Emilia-Romagna,Piedmont,0-24,50-74,Calabria,Lazio,50-74,75-100,Tuscany,25-49
+94,0-24,Sardegna,75-100,Veneto,Lombardy,Veneto,0-24,25-49,Puglia,0-24
+95,Veneto,25-49,50-74,Lombardy,75-100,50-74,Veneto,Lazio,50-74,0-24
+96,25-49,75-100,50-74,0-24,50-74,0-24,0-24,Calabria,Sardegna,25-49
+97,Molise,75-100,25-49,75-100,Sardegna,Molise,25-49,25-49,0-24,25-49
+98,Abruzzo,50-74,25-49,0-24,50-74,Calabria,Campania,Emilia-Romagna,Liguria,0-24
+99,Sicilia,50-74,Piedmont,75-100,Marche,75-100,25-49,Puglia,75-100,0-24
